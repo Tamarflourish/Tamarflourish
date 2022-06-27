@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on frontend web development and javascript for now.
 - 📫 How to reach me through my twitter handle @tamarflourish.
 
-My zuritasks are contained in 
+My zuri tasks are contained in https://github.com/Tamarflourish/Zuri
+Thank you.
 
 
 <!---
