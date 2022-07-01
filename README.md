@@ -19,6 +19,10 @@ JAVASCRIPT CONSOLE CALCULATOR
 https://tamarflourish.github.io/Javascript-Console-calculator/
 
 
+JAVASCRIPT CODE TO PRINT INFO ON SCREEN
+
+
+
 
 <!---
 Tamarflourish/Tamarflourish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
