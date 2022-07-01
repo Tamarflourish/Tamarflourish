@@ -8,7 +8,7 @@ LINKS TO ZURI TASKS
 
 
 CSS FLEX TASK 
-https://tamarflourish.github.io/Cssflex/
+https://tamarflourish.github.io/Zuri-Task/
 
 CSS GRID TASK
 
