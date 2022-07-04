@@ -23,7 +23,7 @@ https://tamarflourish.github.io/Javascipt-Console-Calculator/
 
 
 JAVASCRIPT CODE TO PRINT INFO ON SCREEN
-https://tamarflourish.github.io/Javascript-screen-print/
+ https://tamarflourish.github.io/Javascript-print-screen/
 
 
 
