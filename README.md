@@ -11,7 +11,7 @@ CSS FLEX TASK
 https://tamarflourish.github.io/Zuri-Task/
 
 CSS GRID TASK
- https://tamarflourish.github.io/Grid-design/
+https://tamarflourish.github.io/Grid-design/
 
 
 RESPONSIVE MEDIA QUERY
