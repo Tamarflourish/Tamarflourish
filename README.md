@@ -15,7 +15,7 @@ https://tamarflourish.github.io/Grid-design/
 
 
 RESPONSIVE MEDIA QUERY
-https://tamarflourish.github.io/Responsive-Media-Query/
+ https://tamarflourish.github.io/Responsive-media-query/
 
 
 JAVASCRIPT CONSOLE CALCULATOR
