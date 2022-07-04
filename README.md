@@ -19,7 +19,7 @@ https://tamarflourish.github.io/Responsive-Media-Query/
 
 
 JAVASCRIPT CONSOLE CALCULATOR
-https://tamarflourish.github.io/Javascript-Console-calculator/
+https://tamarflourish.github.io/Javascipt-Console-Calculator/
 
 
 JAVASCRIPT CODE TO PRINT INFO ON SCREEN
